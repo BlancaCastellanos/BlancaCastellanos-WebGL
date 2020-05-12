@@ -1,0 +1,26 @@
+{
+  "name": "blancacastellanos-webgl",
+  "version": "1.0.0",
+  "description": "Proyecto para aprender a usar WebGL",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlancaCastellanos/BlancaCastellanos-WebGL.git"
+  },
+  "keywords": [
+    "shaders"
+  ],
+  "author": "Blanca Lidia Castellanos Solis",
+  "license": "MIT ",
+  "bugs": {
+    "url": "https://github.com/BlancaCastellanos/BlancaCastellanos-WebGL/issues"
+  },
+  "homepage": "https://github.com/BlancaCastellanos/BlancaCastellanos-WebGL#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
